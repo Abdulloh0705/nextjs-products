@@ -28,7 +28,7 @@ export default function Navbar() {
   
   return (
     <nav style={{
-      padding: '15px 31px',
+      padding: '15px 30px',
       backgroundColor: '#0070f3',
       color: 'white',
       display: 'flex',
